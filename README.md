@@ -36,4 +36,4 @@ Hi! I'm Adley, a **Software Enginner** with interest on open-source and machine 
 
 ###
 
-![github snake animation](https://github.com/msadley/msadley/blob/output/github-snake.svg)
+![github snake animation][(https://github.com/msadley/msadley/blob/output/github-snake.svg](https://raw.githubusercontent.com/msadley/msadley/refs/heads/output/github-contribution-grid-snake-dark.svg))
