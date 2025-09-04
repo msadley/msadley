@@ -1,14 +1,12 @@
-<h2 align="left">Hi 👋! My name is Adley and I'm a software developer from Brazil</h2>
+<h2 align="left">Hi there 👋!</h2>
 
-###
+### About me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msadley&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Hi! I'm Adley, a **Software Enginner** with interest on open-source and machine learning, fuelled by coffee and curiosity at [**University of Campina Grande**](https://portal.ufcg.edu.br/). I'm currently learning decentralized networks systems and a bit of frontend development. I like to explore new technologies and build fancy stuff.
 
-###
+### My tech stack
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -24,9 +22,9 @@
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
 </div>
 
-###
+### My contacts
 
-<div align="center">
+<div align="left">
   <a href="https://discord.com/users/442483848090091520" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -37,3 +35,5 @@
 </div>
 
 ###
+
+![github snake animation](https://github.com/msadley/msadley/blob/output/github-snake.svg)
