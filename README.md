@@ -2,7 +2,7 @@
 
 ### About me
 
-Hi! I'm Adley, a **Software Enginner** with interest on open-source and machine learning, fuelled by coffee and curiosity at [**University of Campina Grande**](https://portal.ufcg.edu.br/). I'm currently learning decentralized networks systems and a bit of frontend development. I like to explore new technologies and build fancy stuff.
+Hi! I'm Adley, a **Software Enginner** with interest on open-source and machine learning, fuelled by coffee and curiosity at [**Federal University of Campina Grande**](https://portal.ufcg.edu.br/). I'm currently learning decentralized networks systems and a bit of frontend development. I like to explore new technologies and build fancy stuff.
 
 ### My tech stack
 
