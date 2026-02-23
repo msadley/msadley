@@ -2,7 +2,7 @@
 
 ### About me
 
-Hi! I'm Adley, a **Software Enginner** with interest on open-source and machine learning, fuelled by coffee and curiosity at [**Federal University of Campina Grande**](https://portal.ufcg.edu.br/). I'm currently learning decentralized network systems and a bit of frontend development. I like to explore new technologies and build fancy stuff.
+Hi! I'm Adley, currently a Computer Science student with interest on open-source and machine learning, fuelled by coffee and curiosity at [**Federal University of Campina Grande**](https://portal.ufcg.edu.br/). I'm currently learning decentralized network systems and a bit of frontend development. I like to explore new technologies and build fancy stuff.
 
 ### My tech stack
 
@@ -18,8 +18,6 @@ Hi! I'm Adley, a **Software Enginner** with interest on open-source and machine 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
 </div>
